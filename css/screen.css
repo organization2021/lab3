@@ -196,6 +196,7 @@ html {
   line-height: 1.182em; /* 26px / ~ 120% */
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
+  background-color: #DCDCDC;
 }
 
 label {
@@ -208,6 +209,10 @@ h1 {
 
 p {
   text-align: center;
+}
+
+#email {
+  width: 100%;
 }
 
 input[type="checkbox"] + label {
