@@ -215,8 +215,19 @@ p {
   width: 100%;
 }
 
+#input-email input {
+  background-color: #C0C0C0;
+  border: none;
+}
+
 input[type="checkbox"] + label {
   display: inline;
+}
+
+#input-submit{
+  margin-top: 0.75em;
+  margin-bottom: 0.75em;
+  text-align: center;
 }
 
 
