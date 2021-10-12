@@ -229,14 +229,13 @@ ol {
   padding: 25px 25px 100px 25px;
 }
 
-#email {
-  width: 100%;
-}
+
 
 #input-email input {
   background-color: #C0C0C0;
   border: none;
   line-height: 1.5em;
+  width: 100%;
 }
 
 input[type="checkbox"] + label {
