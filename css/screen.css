@@ -192,6 +192,7 @@ img, audio, video {
 */
 
 html {
+  font-family: Lato, Tahoma, Sans-Serif;
   font-size: 1.375em; /* 22px */
   line-height: 1.182em; /* 26px / ~ 120% */
   padding: 1.182em; /* 26px / ~ 120% */
@@ -231,6 +232,7 @@ ol {
 #input-email input {
   background-color: #C0C0C0;
   border: none;
+  line-height: 1.5em;
 }
 
 input[type="checkbox"] + label {
@@ -251,7 +253,7 @@ input[type="checkbox"] {
   }
 
 #submit {
-  background-color: #C0C0C0;
+  background-color: #A9A9A9;
   border-radius: 4px;
   border: none;
   width: 50%;
