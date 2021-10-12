@@ -205,15 +205,23 @@ label {
 
 h1 {
   text-align: center;
+  font-size: 3.998em;
+  line-height: 1em;
+  padding-top: 0.5em;
 }
 
 p {
   text-align: center;
+  font-size: 2.827em;
+  line-height: 1em;
+  padding-top: 1em;
 }
 
 ol {
   text-align: left;
   margin: 1.618em;
+  font-size: 1.999em;
+  line-height: 1.25em;
 }
 
 #email {
@@ -228,18 +236,27 @@ ol {
 input[type="checkbox"] + label {
   display: inline;
 }
+#input-age-verification {
+  font-size: 0.707em;
+}
 
 #input-submit{
   text-align: center;
-  border: none;
+  margin-top: 0.75em;
 }
 
+input[type="checkbox"] {
+  width: 0.75em;
+  height: 0.75em;
+  }
 
 #submit {
   background-color: #C0C0C0;
   border-radius: 4px;
   border: none;
   width: 50%;
+  padding-top: 0.25em;
+  padding-bottom: 0.25em;
 }
 
 
